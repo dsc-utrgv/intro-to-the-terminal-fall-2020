@@ -1,1 +1,1 @@
-# intro-to-the-terminal-fall-2020
+# Introduction to the Terminal
