@@ -4,3 +4,4 @@ Get a beginner introduction to the terminal where you'll learn how to browse fil
 
 # Resources
 - [Google Slides](https://docs.google.com/presentation/d/1e47wPhR-J0tWvxatJuRvZ-6b1FtbZWacK0YCO0GkCzo/edit?usp=sharing)
+- [YouTube Video](https://www.youtube.com/watch?v=xPN1dUi9XGs&feature=youtu.be&ab_channel=DeveloperStudentClubsUTRGV)
